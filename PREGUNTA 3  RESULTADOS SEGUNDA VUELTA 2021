@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNZyWe6duE9fGwEf8zr4/BW",
+      "authorship_tag": "ABX9TyPMe2KAMWDmFiyaConqyouV",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -77,6 +77,15 @@
           ]
         }
       ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "cC__mbZ-cFSh"
+      },
+      "execution_count": null,
+      "outputs": []
     },
     {
       "cell_type": "code",
@@ -487,6 +496,18 @@
           ]
         }
       ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Instalamos el paquete para convertir el notebook a HTML\n",
+        "system(\"jupyter nbconvert --to html /content/drive/MyDrive/Untitled4.ipynb\")"
+      ],
+      "metadata": {
+        "id": "Sm_d0zducHES"
+      },
+      "execution_count": 18,
+      "outputs": []
     }
   ]
 }
